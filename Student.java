@@ -4,7 +4,7 @@ import java.time.LocalDate;
 
 
 public class Student 
-    {
+ {
 	private String rollNo;
 	private String name;
 	private LocalDate dob;
