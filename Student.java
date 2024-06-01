@@ -3,7 +3,8 @@ package com.app.core;
 import java.time.LocalDate;
 
 
-public class Student {
+public class Student 
+    {
 	private String rollNo;
 	private String name;
 	private LocalDate dob;
