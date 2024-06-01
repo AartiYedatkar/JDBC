@@ -19,7 +19,8 @@ public class DobSorter implements Runnable {
 	}
 
 	@Override
-	public void run() {
+	public void run()
+ {
 		System.out.println(currentThread().getName() + " strted");
 		try {
 
